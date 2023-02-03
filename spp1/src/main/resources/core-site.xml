@@ -1,0 +1,9 @@
+<configuration>
+
+
+    <property>
+        <name>fs.DefaultFS</name>
+        <value>file:///</value>
+    </property>
+
+</configuration>
